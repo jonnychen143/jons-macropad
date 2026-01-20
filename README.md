@@ -12,4 +12,4 @@ hi! This how i made my first ever hardware project (macropad)
 Here is a picture of my PCB
 | **Schematic** | **PCB** |
 |---------------|---------|
-|![]([https://i.ibb.co/GvsRwfvR/image.png])|![]([https://ibb.co/d0B9kXfx])|
+|![](https://ibb.co/20bHV1ST)|![](https://ibb.co/d0B9kXfx)|
