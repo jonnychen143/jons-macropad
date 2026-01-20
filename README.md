@@ -10,6 +10,7 @@ hi! This how i made my first ever hardware project (macropad)
 
 - ## PCB
 Here is a picture of my PCB
-| **Schematic** | **PCB** |
+| **Schematic** | **PCB** | **case** |
 |---------------|---------|
-|![](https://ibb.co/20bHV1ST)|![](https://ibb.co/d0B9kXfx)|
+|![image](https://ibb.co/20bHV1ST)|![image](https://ibb.co/d0B9kXfx)|![image](https://ibb.co/Lz0ZvcCy)![image](https://ibb.co/8DxYkt3n)|
+
