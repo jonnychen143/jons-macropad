@@ -1,2 +1,2 @@
 # jons-macropad
-how i made my first ever hardware project
+hi! This how i made my first ever hardware project (macropad)
